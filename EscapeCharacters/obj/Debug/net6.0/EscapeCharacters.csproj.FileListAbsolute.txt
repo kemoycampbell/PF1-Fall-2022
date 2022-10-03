@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.exe
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.deps.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.runtimeconfig.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.AssemblyInfo.cs
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\refint\EscapeCharacters.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.genruntimeconfig.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\EscapeCharacters\obj\Debug\net6.0\ref\EscapeCharacters.dll
