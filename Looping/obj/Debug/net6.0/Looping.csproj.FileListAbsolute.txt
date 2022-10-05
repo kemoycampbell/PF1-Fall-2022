@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\bin\Debug\net6.0\Looping.exe
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\bin\Debug\net6.0\Looping.deps.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\bin\Debug\net6.0\Looping.runtimeconfig.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\bin\Debug\net6.0\Looping.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\bin\Debug\net6.0\Looping.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.AssemblyInfo.cs
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\refint\Looping.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\Looping.genruntimeconfig.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\Looping\obj\Debug\net6.0\ref\Looping.dll
