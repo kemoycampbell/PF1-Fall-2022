@@ -55,9 +55,9 @@ Console.WriteLine("===============================");
 while(true){
     found = false;
     Console.Write("Enter the name of the student to search for:");
-string target = Console.ReadLine();
+    string target = Console.ReadLine();
 
-for(int i = 0; i< students.Length; i++){
+    for(int i = 0; i< students.Length; i++){
     string student = students[i];
     double gpa = gpas[i];
     string major = majors[i];
