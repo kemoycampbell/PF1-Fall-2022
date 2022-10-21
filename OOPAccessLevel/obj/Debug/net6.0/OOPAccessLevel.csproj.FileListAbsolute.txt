@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.AssemblyInfo.cs
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\bin\Debug\net6.0\OOPAccessLevel.exe
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\bin\Debug\net6.0\OOPAccessLevel.deps.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\bin\Debug\net6.0\OOPAccessLevel.runtimeconfig.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\bin\Debug\net6.0\OOPAccessLevel.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\bin\Debug\net6.0\OOPAccessLevel.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\refint\OOPAccessLevel.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\OOPAccessLevel.genruntimeconfig.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\OOPAccessLevel\obj\Debug\net6.0\ref\OOPAccessLevel.dll
