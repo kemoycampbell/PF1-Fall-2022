@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\bin\Debug\net6.0\AdvancedClass2.exe
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\bin\Debug\net6.0\AdvancedClass2.deps.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\bin\Debug\net6.0\AdvancedClass2.runtimeconfig.json
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\bin\Debug\net6.0\AdvancedClass2.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\bin\Debug\net6.0\AdvancedClass2.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.AssemblyInfo.cs
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\refint\AdvancedClass2.dll
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.pdb
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\AdvancedClass2.genruntimeconfig.cache
+C:\Users\kscics\Desktop\PF1\PF1-Fall-2022\AdvancedClass2\obj\Debug\net6.0\ref\AdvancedClass2.dll
