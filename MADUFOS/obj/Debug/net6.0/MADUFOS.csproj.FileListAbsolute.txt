@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\Exam2\MADUFOS\bin\Debug\net6.0\MADUFOS.exe
+C:\Users\kscics\Desktop\Exam2\MADUFOS\bin\Debug\net6.0\MADUFOS.deps.json
+C:\Users\kscics\Desktop\Exam2\MADUFOS\bin\Debug\net6.0\MADUFOS.runtimeconfig.json
+C:\Users\kscics\Desktop\Exam2\MADUFOS\bin\Debug\net6.0\MADUFOS.dll
+C:\Users\kscics\Desktop\Exam2\MADUFOS\bin\Debug\net6.0\MADUFOS.pdb
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.AssemblyInfo.cs
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.dll
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\refint\MADUFOS.dll
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.pdb
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\MADUFOS.genruntimeconfig.cache
+C:\Users\kscics\Desktop\Exam2\MADUFOS\obj\Debug\net6.0\ref\MADUFOS.dll
