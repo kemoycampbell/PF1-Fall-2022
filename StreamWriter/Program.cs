@@ -6,8 +6,6 @@ if(!string.IsNullOrEmpty(filename))
 
 if(File.Exists(filename))
 {
-    Console.WriteLine("Sorry, that file already exists");
-
     Console.Write("Do you want to overwrite (y/n)? ");
     string overwrite = Console.ReadLine();
 
@@ -18,6 +16,23 @@ if(File.Exists(filename))
     else if(!string.IsNullOrEmpty(overwrite) && overwrite.ToLower() == "n")
     {
         Console.WriteLine("Okay, we're not overwriting the file");
+
+        //  Do you want to append data?
+        Console.Write("Do you want to append (y/n)? ");
+        string append = Console.ReadLine();
+
+        if(!string.IsNullOrEmpty(append) && append.ToLower() == "y")
+        {
+            AppendToFile(filename);
+        }
+        else if(!string.IsNullOrEmpty(append) && append.ToLower() == "n")
+        {
+            Console.WriteLine("Okay, we're not appending to the file");
+        }
+        else
+        {
+            Console.WriteLine("We left the file untouched");
+        }
     }
     else
     {
@@ -42,4 +57,25 @@ void WriteToFile(string filename)
     writer.Close();
 
     Console.WriteLine($"You are done writing to {filename}");
+}
+
+void AppendToFile(string filename)
+{
+    StreamWriter writer = File.AppendText(filename);
+
+    Console.WriteLine("Start typing the new information you want to add (enter x to finish): ");
+
+    while(true)
+    {
+        Console.Write(">>> ");
+        string input = Console.ReadLine();
+
+        if(input == "x")
+            break;
+
+        writer.WriteLine(input);
+        writer.Flush();
+    }
+
+    writer.Close();
 }
