@@ -13,6 +13,7 @@ foodOptions.Add("Drink", 35.00);
 foodOptions.Add("Fries", 11.00);
 
 LoadFromCSV();
+//LoadFromFileTxt(); //uncomment this if you prefer to load from text file instead of csv
 while(true)
 {
     ShowMenu();
@@ -59,15 +60,15 @@ void SaveToFile()
     {
         //.csv is not in the file name so we save as .txt
         if(filename.IndexOf(".csv")==-1) {
-            writer.Write(order.FileFormatTxt());
+            writer.WriteLine(order.FileFormatTxt());
         } else
         {
             if(createCSVHeader)
             {
-                writer.Write("name,food,cost");
+                writer.WriteLine("name,food,cost");
                 createCSVHeader = false;
             }
-            writer.Write(order.FileFormatCSV());
+            writer.WriteLine(order.FileFormatCSV());
         }
         
     }
@@ -136,29 +137,69 @@ void FoodMenu()
     Console.Write("Selection:");
 }
 
+Order GetAssociatingCustomer(string customerName)
+{
+    //we find the associating customer record so we will return the order object
+    foreach (Order order in orders)
+    {
+        return order;
+    }
+    
+    //no match is found so we return null
+    return null;
+}
+
 void LoadFromCSV()
 {
-        string filename = "order.csv";
+    string filename = "order.csv";
     StreamReader reader = new StreamReader(filename);
+    bool skipHeader = true;
+    
 
+    //we will loop until we reach the end of the file
     while(!reader.EndOfStream){
         string order = reader.ReadLine();
-        string[] items = order.Split(",");
-        string name = items[0];
-        List<Item> foods = new List<Item>();
-        Item food = new Item();
-        for(int i = 1; i < items.Length-1; i++){
-            if(double.TryParse(items[i], out double cost)) {
-                food.Cost = cost;
-                foods.Add(food);
-                food = new Item();
-            } else {
-                food.Name = items[i];
-            }
+        //we need to skip the first line because first line is the header
+        if (skipHeader)
+        {
+
+            skipHeader = false;
+            continue;
         }
 
-        orders.Add(new Order(name, foods));
+        if (!string.IsNullOrEmpty(order))
+        {
+            Console.WriteLine(order);
+            //get each items separated by comma
+            string[] items = order.Split(",");
+        
+            //the csv is setup as name,food,cost
+            string name = items[0];
+            string foodName = items[1];
+            double cost = double.Parse(items[2]);
 
+            Item food = new Item();
+            food.Cost = cost;
+            food.Name = foodName;
+        
+            //do we already have a customer with the order info? if yes then we just add the food item to that customer's record
+            Order CustomerOrder = GetAssociatingCustomer(name);
+            if (CustomerOrder is not null)
+            {
+                CustomerOrder.FoodItems.Add(food);
+            }
+            else
+            {
+                //the customer doesnt exist so we create a new order to add to the list
+                List<Item> foods = new List<Item>();
+                foods.Add(food);
+                CustomerOrder = new Order(name, foods);
+                orders.Add(CustomerOrder);
+
+            }
+            
+
+        }
 
     }
 

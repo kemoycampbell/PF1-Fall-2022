@@ -43,10 +43,10 @@ public class Order
     {
         string info = $"Customer:{Name}\nFoods:";
         foreach(Item food in FoodItems) {
-            info+=$"{food.Name} --> {food.Cost}\n";
+            info+=$"\n{food.Name} --> {food.Cost}";
         }
 
-        info+=$"Total cost:{Cost}";
+        info+=$"\nTotal cost:{Cost}";
 
         return info;
     }
@@ -69,7 +69,7 @@ public class Order
         string info = "";
         foreach(Item food in foodItems)
         {
-            info+=$"\n{name},{food.Name},{food.Cost}";
+            info+=$"{name},{food.Name},{food.Cost}\n";
         }
         return info;
     }
