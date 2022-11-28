@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEKZUJMiCe9tdv40/AWQWA4QMPdbODf6sirRhz+9LPPDuIvRUHrYeioJDgGKlFazn9p361DiDUJk7wo1/SoRjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kscics\\Desktop\\PF1\\PF1-Fall-2022\\IntroToJSON\\IntroToJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kscics\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
