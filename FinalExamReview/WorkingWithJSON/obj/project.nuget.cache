@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pyOg/0P2GvYpp3dqBBPfTbO68Z6PBMUH6JCmc/DBcVuP6K0miZIGf6roF3PO80Nf979OqXY2IPCkrMW9EP/Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kscics\\Desktop\\PF1\\PF1-Fall-2022\\FinalExamReview\\WorkingWithJSON\\WorkingWithJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kscics\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
